@@ -1,4 +1,4 @@
-import "./Menu.less";
+import "./menu.less";
 
 // Kullanacağımız veri bu, üzerinde çalışın ama henüz hiçbir şeyi değiştirmeyin.
 let menuElemanlari = [
